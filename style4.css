@@ -148,11 +148,11 @@ html {
   }
 
   .bpw-floating-button i svg path {
-    fill: #000;
+    fill: #fff;
 }
 
 .bpw-floating-button {
-    background: black;
+    background: #004b8d;
     border-radius: 52px;
 }
 
