@@ -116,6 +116,11 @@ html {
     overflow: hidden;
   }
 
+  .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #ededed;
+    color: #4e4e4e;
+  }
+
   .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
     background-color: #efefef;
     color: #000;
