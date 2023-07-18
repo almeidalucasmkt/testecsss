@@ -40,10 +40,18 @@ html {
     border: 1px;
     border-radius: 10px;
   }
-  .bpw-date-container,
-  .bpw-header-name,
+   .bpw-header-container {
+    border: 1px;
+    border-radius: 10px;
+  }
+  .bpw-date-container {
+    color: #000
+  }
+  .bpw-header-name {
+    color: #FFF
+  }
   .bpw-header-subtitle {
-    color: #ffffff;
+    color: #fff;
   }
   
   .bpw-layout {
