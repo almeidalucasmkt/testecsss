@@ -122,8 +122,8 @@ html {
   }
 
   .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
-    background-color: #ffffff;
-    color: #4e4e4e;
+    background-color: #efefef;
+    color: #000;
   }
 
   .bpw-composer {
